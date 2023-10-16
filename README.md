@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React Native App Quiz using AI**
 - 🌱 I’m currently learning **React Native and AWS Amplify**
--👯 I’m looking to collaborate on **Freelance projects**
+- 👯 I’m looking to collaborate on **Freelance projects**
 - 🤝 I’m looking for help with **Expo development**
 - 💬 Ask me about **Next JS, React, Mongodb**
 - 📫 How to reach me **marioalbertocesea@gmail.com**
