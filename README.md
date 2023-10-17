@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mario Cesena</h1>
-<h3 align="center">"¡Hola! 🌮 Mexican software enthusiast currently enjoying the tech vibes in Vancouver 🇨🇦. With an engineering background and a big love for all things code, I'm on a mission to build cool stuff and learn as much as I can along the way. Let's connect and make some magic happen! ✨</h3>
+<h3 align="center">"¡Hola! 🌮 Mexican software developer currently enjoying the tech vibes in Vancouver 🇨🇦. With an engineering background and a big love for all things code, I'm on a mission to build cool stuff and learn as much as I can along the way. Let's connect and make some magic happen! ✨</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/cdac71056b5fbdcb3907639c74a1f095.gif" />
 
